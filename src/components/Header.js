@@ -4,7 +4,7 @@ function Header() {
     return(
         <div>
             <img className="logo" src="./img/LSO_flat_logo.png" alt="logo" />
-            <button className="pageButton" href="https://lso-inc.com/">Visit our Website!</button>
+            <a href="https://lso-inc.com/"><button className="pageButton">Visit our Website!</button></a>
         </div>
     );
 }
