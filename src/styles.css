@@ -41,6 +41,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+    max-width: 330px;
     height: auto;
 }
 
@@ -49,8 +50,8 @@ img {
     border-radius: 15px;
     color: white;
     display: block;
-    font-size: 3rem;
-    max-width: 1000px;
+    font-size: 2.5rem;
+    max-width: 900px;
     margin-top: 8%;
     margin-bottom: 3%;
     margin-left: auto;
@@ -63,7 +64,7 @@ img {
     border-radius: 15px;
     color: black;
     display: block;
-    font-size: 3rem;
+    font-size: 2.5rem;
     margin-top: 8%;
     margin-left: auto;
     margin-right: auto;
