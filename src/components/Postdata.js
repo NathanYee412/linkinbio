@@ -1,5 +1,11 @@
 const posts = [
     {
+        alt: "What is medical device manufacturing",
+        link:"https://lso-inc.com/blog/what-is-medical-device-contract-manufacturing/",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Is%20Medical%20Device%20Contract%20Manufacturing.png",
+        key: 7
+    },
+    {
         alt: "EO Sterilization",
         link:"https://lso-inc.com/blog/4-best-practices-for-better-batch-eo-sterilization/",
         image:"https://media-exp1.licdn.com/dms/image/C5622AQGLUGNgIn6-kw/feedshare-shrink_800/0/1637255701445?e=1640217600&v=beta&t=udanmPHpecsB6kO_Egsjg461qu4-qh4tSfdNI3rdRIs",
