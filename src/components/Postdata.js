@@ -1,5 +1,11 @@
 const posts = [
     {
+        alt: "When should you start real time aging",
+        link:"https://lso-inc.com/blog/when-to-start-real-time-aging/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/When%20Should%20You%20Start%20Real-time%20Aging.png/medium.png?t=0",
+        key: 8
+    },
+    {
         alt: "What is medical device manufacturing",
         link:"https://lso-inc.com/blog/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Is%20Medical%20Device%20Contract%20Manufacturing.png",
