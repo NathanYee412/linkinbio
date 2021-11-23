@@ -1,5 +1,11 @@
 const posts = [
     {
+        alt: "3 Benefits to conducting sterilization with a turnkey manufacturing partner",
+        link:"https://lso-inc.com/blog/3-benefits-to-conducting-sterilization-with-a-turnkey-manufacturing-partner/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Benefits%20to%20Conducting%20Sterilization%20with%20a%20Turnkey%20Manufacturing%20Partner.png",
+        key: 9
+    },
+    {
         alt: "When should you start real time aging",
         link:"https://lso-inc.com/blog/when-to-start-real-time-aging/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/When%20Should%20You%20Start%20Real-time%20Aging.png/medium.png?t=0",
