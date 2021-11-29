@@ -1,5 +1,23 @@
 const posts = [
     {
+        alt: "4 Keys to Effective Medical Device Sterilization",
+        link:"https://lso-inc.com/blog/4-keys-to-effective-medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/4%20Keys%20to%20Effective%20Medical%20Device%20Sterilization.png",
+        key: 12
+    },
+    {
+        alt: "Happy Thanksgiving from LSO",
+        link:"lso-inc.com",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Thanksgiving.png",
+        key: 11
+    },
+    {
+        alt: "CMO Selection Criteria",
+        link:"https://lso-inc.com/blog/outsourcing-and-cmo-selection-criteria/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Outsourcing%20and%20CMO%20Selection%20Criteria.png",
+        key: 10
+    },
+    {
         alt: "3 Benefits to conducting sterilization with a turnkey manufacturing partner",
         link:"https://lso-inc.com/blog/3-benefits-to-conducting-sterilization-with-a-turnkey-manufacturing-partner/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Benefits%20to%20Conducting%20Sterilization%20with%20a%20Turnkey%20Manufacturing%20Partner.png",
