@@ -1,5 +1,11 @@
 const posts = [
     {
+        alt: "Medical Device Packaging Validation",
+        link:"https://lso-inc.com/blog/medical-device-packaging-validation-and-iso-11607/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Packaging%20Validation%20and%20ISO%2011607.png/medium.png?t=0",
+        key: 13
+    },
+    {
         alt: "4 Keys to Effective Medical Device Sterilization",
         link:"https://lso-inc.com/blog/4-keys-to-effective-medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/4%20Keys%20to%20Effective%20Medical%20Device%20Sterilization.png",
