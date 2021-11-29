@@ -7,7 +7,7 @@ const posts = [
     },
     {
         alt: "Happy Thanksgiving from LSO",
-        link:"lso-inc.com",
+        link:"https://lso-inc.com/",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Thanksgiving.png",
         key: 11
     },
