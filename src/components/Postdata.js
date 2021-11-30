@@ -1,5 +1,11 @@
 const posts = [
     {
+        alt: "Navigating 510k clearance",
+        link:"https://lso-inc.com/blog/navigating-510k-approval-4-key-steps-in-the-manufacturing-process/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Navigating%20510k%20Clearance%204%20Key%20Steps%20in%20the%20Manufacturing%20Process.png",
+        key: 14
+    },
+    {
         alt: "Medical Device Packaging Validation",
         link:"https://lso-inc.com/blog/medical-device-packaging-validation-and-iso-11607/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Packaging%20Validation%20and%20ISO%2011607.png/medium.png?t=0",
