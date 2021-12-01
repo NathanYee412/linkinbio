@@ -1,4 +1,17 @@
+// {
+//     alt: "",
+//     link:"",
+//     image:"",
+//     key: 0
+// },
+
 const posts = [
+    {
+        alt: "3 ways outsourcing loaner kit processing benefits manufacturers",
+        link:"https://lso-inc.com/blog/3-ways-outsourcing-loaner-kit-processing-benefits-manufacturers/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Ways%20Outsourcing%20Loaner%20Kit%20Processing%20Benefits%20Manufacturers.png",
+        key: 15
+    },
     {
         alt: "Navigating 510k clearance",
         link:"https://lso-inc.com/blog/navigating-510k-approval-4-key-steps-in-the-manufacturing-process/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
