@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "How Many Medical Device Package Samples Are Required for Package Testing?",
+        link:"https://lso-inc.com/blog/how-many-medical-device-package-samples-are-required-for-package-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/How%20Many%20Medical%20Device%20Package%20Samples%20Are%20Required%20for%20Package%20Testing%20(1).png",
+        key: 16
+    },
+    {
         alt: "3 ways outsourcing loaner kit processing benefits manufacturers",
         link:"https://lso-inc.com/blog/3-ways-outsourcing-loaner-kit-processing-benefits-manufacturers/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Ways%20Outsourcing%20Loaner%20Kit%20Processing%20Benefits%20Manufacturers.png",
