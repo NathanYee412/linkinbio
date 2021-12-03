@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "Medical Device Steam Sterilizaiton",
+        link:"https://lso-inc.com/blog/medical-device-steam-sterilization-and-the-impact-of-iso-17665/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Steam%20Sterilization%20and%20the%20Impact%20of%20ISO%2017665.png",
+        key: 17
+    },
+    {
         alt: "How Many Medical Device Package Samples Are Required for Package Testing?",
         link:"https://lso-inc.com/blog/how-many-medical-device-package-samples-are-required-for-package-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/How%20Many%20Medical%20Device%20Package%20Samples%20Are%20Required%20for%20Package%20Testing%20(1).png",
