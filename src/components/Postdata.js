@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "What does the medical device sterilization validaiton process include?",
+        link:"https://lso-inc.com/blog/medical-device-sterilization-validation-process/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Does%20the%20Medical%20Device%20Sterilization%20Validation%20Process%20Include%20(2).png",
+        key: 18
+    },
+    {
         alt: "Medical Device Steam Sterilizaiton",
         link:"https://lso-inc.com/blog/medical-device-steam-sterilization-and-the-impact-of-iso-17665/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Steam%20Sterilization%20and%20the%20Impact%20of%20ISO%2017665.png",
