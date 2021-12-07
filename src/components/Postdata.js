@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "What is the difference between real time aging and accelerated aging",
+        link:"https://lso-inc.com/blog/difference-between-real-time-aging-and-accelerated-aging/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20is%20the%20Difference%20Between%20Real%20Time%20Aging%20and%20Accelerated%20Aging%20in%20Medical%20Package%20Testing.png",
+        key: 19
+    },
+    {
         alt: "What does the medical device sterilization validaiton process include?",
         link:"https://lso-inc.com/blog/medical-device-sterilization-validation-process/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Does%20the%20Medical%20Device%20Sterilization%20Validation%20Process%20Include%20(2).png",
