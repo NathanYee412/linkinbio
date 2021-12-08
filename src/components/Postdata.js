@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "Shake rattle and roll testing",
+        link:"https://lso-inc.com/blog/shake-rattle-and-roll/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Package%20Distribution%20Testing%20Shake%2c%20Rattle%2c%20and%20Roll.png/medium.png?t=0",
+        key: 20
+    },
+    {
         alt: "What is the difference between real time aging and accelerated aging",
         link:"https://lso-inc.com/blog/difference-between-real-time-aging-and-accelerated-aging/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20is%20the%20Difference%20Between%20Real%20Time%20Aging%20and%20Accelerated%20Aging%20in%20Medical%20Package%20Testing.png",
