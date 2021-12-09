@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "7 Recommendations for sterilization validation integrity",
+        link:"https://lso-inc.com/blog/7-recommendations-for-sterilization-validation-integrity/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/7%20Recommendations%20for%20Sterilization%20Validation%20Integrity.png?t=0",
+        key: 21
+    },
+    {
         alt: "Shake rattle and roll testing",
         link:"https://lso-inc.com/blog/shake-rattle-and-roll/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Package%20Distribution%20Testing%20Shake%2c%20Rattle%2c%20and%20Roll.png/medium.png?t=0",
