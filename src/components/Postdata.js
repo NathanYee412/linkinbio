@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "Medtech Makers interview with Rato Tomic",
+        link:"https://hubs.la/Q010zQk80",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/MPO%20MedTech%20Makers%20Instagram.png?t=0",
+        key: 0
+    },
+    {
         alt: "7 Recommendations for sterilization validation integrity",
         link:"https://lso-inc.com/blog/7-recommendations-for-sterilization-validation-integrity/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/7%20Recommendations%20for%20Sterilization%20Validation%20Integrity.png?t=0",
