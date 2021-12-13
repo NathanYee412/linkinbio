@@ -10,13 +10,13 @@ const posts = [
         alt: "The right process for reusable medical device decontamination",
         link:"https://lso-inc.com/blog/7-industry-recommended-best-practices-for-medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/The%20Right%20Process%20for%20Reusable%20Medical%20Device%20Decontamination.png",
-        key: 0
+        key: 23
     },
     {
         alt: "Medtech Makers interview with Rato Tomic",
         link:"https://hubs.la/Q010zQk80",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/MPO%20MedTech%20Makers%20Instagram.png?t=0",
-        key: 0
+        key: 22
     },
     {
         alt: "7 Recommendations for sterilization validation integrity",
