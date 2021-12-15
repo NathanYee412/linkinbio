@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "Loaner Kits",
+        link:"https://lso-inc.com/blog/first-of-its-kind-west-coast-loaner-kit-operation/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/First%20of%20its%20kind%20West%20Coast%20Loner%20Kit%20Operation.png/medium.png?t=0",
+        key: 25
+    },
+    {
         alt: "Batch eo sterilization",
         link:"https://lso-inc.com/blog/4-best-practices-for-better-batch-eo-sterilization?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/4%20Best%20Practices%20for%20Better%20Batch%20EO%20Sterilization%20(1).png",
