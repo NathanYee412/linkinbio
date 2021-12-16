@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "Accelerated package testing",
+        link:"https://lso-inc.com/blog/accelerated-aging-for-medical-package-testing-what-why-and-how/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Accelerated%20Aging%20for%20Medical%20Package%20Testing%20What%2c%20Why%2c%20and%20How.png",
+        key: 0
+    },
+    {
         alt: "Loaner Kits",
         link:"https://lso-inc.com/blog/first-of-its-kind-west-coast-loaner-kit-operation/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/First%20of%20its%20kind%20West%20Coast%20Loner%20Kit%20Operation.png/medium.png?t=0",
