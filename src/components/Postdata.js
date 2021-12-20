@@ -165,13 +165,13 @@ const posts = [
     {
         alt: "medical device sterilization",
         link:"https://lso-inc.com/blog/3-often-overlooked-elements-of-medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
-        image:"https://media-exp1.licdn.com/dms/image/C5622AQFKpzftQfNtcw/feedshare-shrink_1280/0/1636568942104?e=1639612800&v=beta&t=4FGi62wfLMpjhLDpT_xxeywWd9QA33dwMgnrGnoqML8",
+        image:"https://lso-inc.com/wp-content/uploads/2021/09/eo_sterilization_thumb-scaled.jpg",
         key: 1
     },
     {
         alt: "3 Keys to More Efficient Distribution Simulation Testing",
         link:"https://lso-inc.com/blog/3-keys-to-more-efficient-distribution-simulation-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
-        image:"https://media-exp1.licdn.com/dms/image/C5622AQHgUH4Y5I7AKw/feedshare-shrink_1280/0/1635271793676?e=1639612800&v=beta&t=zcF6DgsK6x9Pns_k8GruZQEcZ2flRQQHhLBGZ5pjxrU",
+        image:"https://media-exp1.licdn.com/dms/image/C5622AQHgUH4Y5I7AKw/feedshare-shrink_800/0/1635271793676?e=1640822400&v=beta&t=FAH_A8v8A1Z514G5Gl82YzvMUzsh15LlVO75iAv4CSI",
         key: 0
     },
     
