@@ -10,13 +10,13 @@ const posts = [
         alt: "Package Distribution",
         link:"https://lso-inc.com/blog/3-keys-to-more-efficient-distribution-simulation-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Keys%20to%20More%20Efficient%20Distribution%20Simulation%20Testing.png/medium.png?t=0",
-        key: 0
+        key: 27
     },  
     {
         alt: "Accelerated package testing",
         link:"https://lso-inc.com/blog/accelerated-aging-for-medical-package-testing-what-why-and-how/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Accelerated%20Aging%20for%20Medical%20Package%20Testing%20What%2c%20Why%2c%20and%20How.png",
-        key: 0
+        key: 26
     },
     {
         alt: "Loaner Kits",
