@@ -7,6 +7,12 @@
 
 const posts = [
     {
+        alt: "Medical Device Sterilizer",
+        link:"https://lso-inc.com/sterilization-validation-services/medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Sterilization.png",
+        key: 28
+    },
+    {
         alt: "Package Distribution",
         link:"https://lso-inc.com/blog/3-keys-to-more-efficient-distribution-simulation-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Keys%20to%20More%20Efficient%20Distribution%20Simulation%20Testing.png/medium.png?t=0",
