@@ -7,10 +7,16 @@
 
 const posts = [
     {
+        alt: "3 Often Overlooked elements of Medical Device Sterilization",
+        link:"https://lso-inc.com/blog/3-often-overlooked-elements-of-medical-device-sterilization/",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Often%20Overlooked%20Elements%20of%20Medical%20Device%20Sterilization%20(1).png?t=0",
+        key: 30
+    },
+    {
         alt: "Package Design tools",
         link:"https://lso-inc.com/blog/3-key-tools-to-mitigate-iso-11607-package-design-failure/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Key%20tools%20to%20mitigate%20ISO%2011607%20Package%20Design%20failure.png?t=0",
-        key: 0
+        key: 29
     },
     {
         alt: "Medical Device Sterilizer",
