@@ -1,11 +1,17 @@
 // {
 //     alt: "",
 //     link:"",
-    //     image:"",
-    //     key: 0
-    // },
+//         image:"",
+//         key: 0
+//     },
     
 const posts =    [
+    {
+        alt: "Contract Medical device manufacturing",
+        link:"https://lso-inc.com/capabilities/contract-medical-device-manufacturing/",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Contract%20Medical%20Device%20Manufacturing-1.png?t=0",
+        key: 33
+    },
     {
         alt: "Medical tool kit sterilization",
         link:"https://lso-inc.com/sterilization-validation-services/medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
