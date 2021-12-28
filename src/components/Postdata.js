@@ -171,7 +171,7 @@ const posts =    [
     {
         alt: "EO Sterilization",
         link:"https://lso-inc.com/blog/4-best-practices-for-better-batch-eo-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
-        image:"https://media-exp1.licdn.com/dms/image/C5622AQGLUGNgIn6-kw/feedshare-shrink_800/0/1637255701445?e=1640217600&v=beta&t=udanmPHpecsB6kO_Egsjg461qu4-qh4tSfdNI3rdRIs",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/4%20Best%20Practices%20for%20Better%20Batch%20EO%20Sterilization.png/medium.png?t=0",
         key: 6
     },
     {
@@ -189,7 +189,7 @@ const posts =    [
     {
         alt: "Veterans Day",
         link:"https://www.linkedin.com/feed/update/urn:li:activity:6864639636262793216",
-        image:"https://media-exp1.licdn.com/dms/image/C5622AQGLm6Bw-AVpVA/feedshare-shrink_800/0/1636657622626?e=1640217600&v=beta&t=t57gU7tYuFvrB-VTrRXJqnA9t8D0_kgFW0XQyXdCfdo",
+        image:"https://media-exp1.licdn.com/dms/image/C5622AQGLm6Bw-AVpVA/feedshare-shrink_800/0/1636657622626?e=1643846400&v=beta&t=Txr0fotBtIEFvDOUCoAXIntPObTIGfWMCzw4lkPEbXg",
         key: 3
     },
     {
