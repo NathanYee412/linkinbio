@@ -1,11 +1,17 @@
 // {
 //     alt: "",
 //     link:"",
-//         image:"",
-//         key: 0
-//     },
+//     image:"",
+//     key: 0
+// },
     
 const posts =    [
+    {
+        alt: "3 Keys to more efficient distribution sim",
+        link:"https://lso-inc.com/blog/3-keys-to-more-efficient-distribution-simulation-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Keys%20to%20more%20efficient%20distribution%20simulation%20testing%202%20.png",
+        key: 34
+    },
     {
         alt: "Contract Medical device manufacturing",
         link:"https://lso-inc.com/capabilities/contract-medical-device-manufacturing/",
