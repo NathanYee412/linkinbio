@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "How many medical device samples are requred for package testing",
+        link:"https://www.linkedin.com/feed/update/urn:li:activity:6872250058755207168?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/How%20Many%20Medical%20Device%20Package%20Samples%20Are%20Required%20for%20Package%20Testing%20(2).png",
+        key: 35
+    },
+    {
         alt: "3 Keys to more efficient distribution sim",
         link:"https://lso-inc.com/blog/3-keys-to-more-efficient-distribution-simulation-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Keys%20to%20more%20efficient%20distribution%20simulation%20testing%202%20.png",
