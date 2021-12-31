@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Life Science Outsourcing Engineering Services",
+        link:"https://lso-inc.com/medical-device-manufacturing/engineering-services/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/MDM%20Promo.png",
+        key: 36
+    },
+    {
         alt: "How many medical device samples are requred for package testing",
         link:"https://www.linkedin.com/feed/update/urn:li:activity:6872250058755207168?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/How%20Many%20Medical%20Device%20Package%20Samples%20Are%20Required%20for%20Package%20Testing%20(2).png",
