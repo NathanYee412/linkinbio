@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Happy New Year",
+        link:"https://lso-inc.com/",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/New%20Year%20LSO.png?t=0",
+        key: 37
+    },
+    {
         alt: "Life Science Outsourcing Engineering Services",
         link:"https://lso-inc.com/medical-device-manufacturing/engineering-services/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/MDM%20Promo.png",
