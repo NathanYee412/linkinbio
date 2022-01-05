@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medical Device Manufacturing",
+        link:"https://lso-inc.com/capabilities/contract-medical-device-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/MDM%20Promo%202.png",
+        key: 39
+    },
+    {
         alt: "4 Keys to effective medical device sterilization",
         link:"https://lso-inc.com/blog/4-keys-to-effective-medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/4%20Best%20Practices%20for%20Better%20Batch%20EO%20Sterilization%20(2).png/medium.png?t=0",
