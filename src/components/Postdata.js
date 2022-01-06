@@ -7,8 +7,14 @@
     
 const posts =    [
     {
-        alt: "Medical Device Manufacturing",
-        link:"https://lso-inc.com/capabilities/contract-medical-device-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        alt: "Dunnage Post",
+        link:"https://lso-inc.com/blog/what-is-dunnage-and-how-can-it-reduce-medical-package-testing-costs/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Keys%20to%20more%20efficient%20distribution%20simulation%20testing%202%20%20(1).png",
+        key: 40
+    },
+    {
+        alt: "Medical Device Manufacturing promotion",
+        link:"https://lso-inc.com/capabilities/contract-medical-device-manufacturing?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/MDM%20Promo%202.png",
         key: 39
     },
