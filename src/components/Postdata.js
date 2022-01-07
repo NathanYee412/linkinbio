@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "The right process for resuable medical device decontamination",
+        link:"https://lso-inc.com/blog/the-right-process-for-reusable-medical-device-decontamination/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/SVS.png",
+        key: 41
+    },
+    {
         alt: "Dunnage Post",
         link:"https://lso-inc.com/blog/what-is-dunnage-and-how-can-it-reduce-medical-package-testing-costs/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Keys%20to%20more%20efficient%20distribution%20simulation%20testing%202%20%20(1).png",
