@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "MDM Capabilities",
+        link:"https://hubs.la/Q011Rsh-0",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/MDM%20Promo%203%20(Vince).png?t=0",
+        key: 42
+    },
+    {
         alt: "The right process for resuable medical device decontamination",
         link:"https://lso-inc.com/blog/the-right-process-for-reusable-medical-device-decontamination/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/SVS.png",
