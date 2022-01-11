@@ -140,7 +140,7 @@ const posts =    [
     },
     {
         alt: "Shake rattle and roll testing",
-        link:"#",
+        link:"https://lso-inc.com/news/medical-device-package-distribution-testing-shake-rattle-and-roll/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Package%20Distribution%20Testing%20Shake%2c%20Rattle%2c%20and%20Roll.png/medium.png?t=0",
         key: 20
     },
@@ -152,7 +152,7 @@ const posts =    [
     },
     {
         alt: "What does the medical device sterilization validaiton process include?",
-        link:"#",
+        link:"https://lso-inc.com/news/what-does-the-medical-device-sterilization-validation-process-include-2/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Does%20the%20Medical%20Device%20Sterilization%20Validation%20Process%20Include%20(2).png",
         key: 18
     },
