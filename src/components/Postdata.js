@@ -8,7 +8,7 @@
 const posts =    [
     {
         alt: "MDM Capabilities",
-        link:"https://hubs.la/Q011Rsh-0",
+        link:"https://hubs.la/Q011XSFv0",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/MDM%20Promo%203%20(Vince).png?t=0",
         key: 42
     },
@@ -26,7 +26,7 @@ const posts =    [
     },
     {
         alt: "Medical Device Manufacturing promotion",
-        link:"https://lso-inc.com/capabilities/contract-medical-device-manufacturing?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        link:"https://hubs.la/Q011XSFv0",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/MDM%20Promo%202.png",
         key: 39
     },
@@ -44,13 +44,13 @@ const posts =    [
     },
     {
         alt: "Life Science Outsourcing Engineering Services",
-        link:"https://lso-inc.com/medical-device-manufacturing/engineering-services/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        link:"https://hubs.la/Q011XSFv0",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/MDM%20Promo.png",
         key: 36
     },
     {
         alt: "How many medical device samples are requred for package testing",
-        link:"https://www.linkedin.com/feed/update/urn:li:activity:6872250058755207168?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        link:"https://hubs.la/Q0108w3J0",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/How%20Many%20Medical%20Device%20Package%20Samples%20Are%20Required%20for%20Package%20Testing%20(2).png",
         key: 35
     },
@@ -62,13 +62,13 @@ const posts =    [
     },
     {
         alt: "Contract Medical device manufacturing",
-        link:"https://lso-inc.com/capabilities/contract-medical-device-manufacturing/",
+        link:"https://hubs.la/Q011XSFv0",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Contract%20Medical%20Device%20Manufacturing-1.png?t=0",
         key: 33
     },
     {
         alt: "Medical tool kit sterilization",
-        link:"https://lso-inc.com/sterilization-validation-services/medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        link:"https://lso-inc.com/services/sterilization-validation/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/SVS%20Promotion.png",
         key: 32
     },
@@ -86,13 +86,13 @@ const posts =    [
     },
     {
         alt: "Package Design tools",
-        link:"https://lso-inc.com/blog/3-key-tools-to-mitigate-iso-11607-package-design-failure/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        link:"#",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Key%20tools%20to%20mitigate%20ISO%2011607%20Package%20Design%20failure.png?t=0",
         key: 29
     },
     {
         alt: "Medical Device Sterilizer",
-        link:"https://lso-inc.com/sterilization-validation-services/medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        link:"https://lso-inc.com/services/sterilization-validation/services/sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Sterilization.png",
         key: 28
     },
@@ -110,7 +110,7 @@ const posts =    [
     },
     {
         alt: "Loaner Kits",
-        link:"https://lso-inc.com/blog/first-of-its-kind-west-coast-loaner-kit-operation/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        link:"https://lso-inc.com/services/sterilization-validation/services/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/First%20of%20its%20kind%20West%20Coast%20Loner%20Kit%20Operation.png/medium.png?t=0",
         key: 25
     },
@@ -140,19 +140,19 @@ const posts =    [
     },
     {
         alt: "Shake rattle and roll testing",
-        link:"https://lso-inc.com/blog/shake-rattle-and-roll/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        link:"#",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Package%20Distribution%20Testing%20Shake%2c%20Rattle%2c%20and%20Roll.png/medium.png?t=0",
         key: 20
     },
     {
         alt: "What is the difference between real time aging and accelerated aging",
-        link:"https://lso-inc.com/blog/difference-between-real-time-aging-and-accelerated-aging/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        link:"https://lso-inc.com/news/what-is-the-difference-between-real-time-aging-and-accelerated-aging-in-medical-package-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20is%20the%20Difference%20Between%20Real%20Time%20Aging%20and%20Accelerated%20Aging%20in%20Medical%20Package%20Testing.png",
         key: 19
     },
     {
         alt: "What does the medical device sterilization validaiton process include?",
-        link:"https://lso-inc.com/blog/medical-device-sterilization-validation-process/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        link:"#",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Does%20the%20Medical%20Device%20Sterilization%20Validation%20Process%20Include%20(2).png",
         key: 18
     },
@@ -176,7 +176,7 @@ const posts =    [
     },
     {
         alt: "Navigating 510k clearance",
-        link:"https://lso-inc.com/blog/navigating-510k-approval-4-key-steps-in-the-manufacturing-process/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        link:"https://lso-inc.com/news/navigating-510k-clearance-4-key-steps-in-the-manufacturing-process/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Navigating%20510k%20Clearance%204%20Key%20Steps%20in%20the%20Manufacturing%20Process.png",
         key: 14
     },
@@ -212,13 +212,13 @@ const posts =    [
     },
     {
         alt: "When should you start real time aging",
-        link:"https://lso-inc.com/blog/when-to-start-real-time-aging/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        link:"https://lso-inc.com/news/when-should-you-start-real-time-aging/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/When%20Should%20You%20Start%20Real-time%20Aging.png/medium.png?t=0",
         key: 8
     },
     {
         alt: "What is medical device manufacturing",
-        link:"https://lso-inc.com/blog/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        link:"https://lso-inc.com/news/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Is%20Medical%20Device%20Contract%20Manufacturing.png",
         key: 7
     },
@@ -236,7 +236,7 @@ const posts =    [
     },
     {
         alt: "Navigating 510k clearance",
-        link:"https://lso-inc.com/blog/navigating-510k-approval-4-key-steps-in-the-manufacturing-process/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        link:"https://lso-inc.com/news/navigating-510k-clearance-4-key-steps-in-the-manufacturing-process/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Navigating%20510k%20Clearance%204%20Key%20Steps%20in%20the%20Manufacturing%20Process.png",
         key: 4
     },
