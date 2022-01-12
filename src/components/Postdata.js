@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "The right process for reusable medical device decontamination",
+        link:"https://hubs.li/H0Vmr-r0",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/The%20Right%20Process%20for%20Reusable%20Medical%20Device%20Decontamination.png",
+        key: 43
+    },
+    {
         alt: "MDM Capabilities",
         link:"https://hubs.la/Q011XSFv0",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/MDM%20Promo%203%20(Vince).png?t=0",
