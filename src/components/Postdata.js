@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Accelerated Aging: What, Why, and How",
+        link:"https://hubs.la/Q0127x1N0",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Accelerated%20Aging%20for%20Medical%20Package%20Testing%20What%2c%20Why%2c%20and%20How%20(1).png?t=0",
+        key: 44
+    },
+    {
         alt: "The right process for reusable medical device decontamination",
         link:"https://hubs.li/H0Vmr-r0",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/The%20Right%20Process%20for%20Reusable%20Medical%20Device%20Decontamination.png",
