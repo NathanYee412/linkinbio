@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Employee of the year 2021",
+        link:"https://lso-inc.com/news/employee-of-the-year-2021/",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Emp%20Of%20the%20Year%202021.png",
+        key: 45
+    },
+    {
         alt: "Accelerated Aging: What, Why, and How",
         link:"https://hubs.la/Q0127x1N0",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Accelerated%20Aging%20for%20Medical%20Package%20Testing%20What%2c%20Why%2c%20and%20How%20(1).png?t=0",
