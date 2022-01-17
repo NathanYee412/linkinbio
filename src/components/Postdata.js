@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "7 Recommendations for sterilization validation integrity",
+        link:"https://hubs.la/Q012jT150",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/7%20Recommendations%20for%20Sterilization%20Validation%20Integrity.png",
+        key: 46
+    },
+    {
         alt: "Employee of the year 2021",
         link:"https://lso-inc.com/news/employee-of-the-year-2021/",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Emp%20Of%20the%20Year%202021.png",
