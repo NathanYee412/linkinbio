@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Navigating 510(k) clearance",
+        link:"https://hubs.la/Q012p4XJ0",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/510k.png",
+        key: 47
+    },
+    {
         alt: "7 Recommendations for sterilization validation integrity",
         link:"https://hubs.la/Q012jT150",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/7%20Recommendations%20for%20Sterilization%20Validation%20Integrity.png",
