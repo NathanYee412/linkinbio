@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "What is the difference between real time aging and accelerated aging",
+        link:"https://hubs.la/Q012tJSs0",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Packaging%20Validation%20and%20ISO%2011607%20(1).png/medium.png?t=0",
+        key: 48
+    },
+    {
         alt: "Navigating 510(k) clearance",
         link:"https://hubs.la/Q012p4XJ0",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/510k.png",
