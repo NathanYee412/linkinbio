@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "What is medical device contract manufacturing?",
+        link:"https://lso-inc.com/news/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20is%20medical%20device%20.png",
+        key: 50
+    },
+    {
         alt: "The Right Challenge Device for EtO sterilization",
         link:"https://hubs.la/Q012zr1J0",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/The%20Right%20Challenge%20Device%20for%20Ethylene%20Oxide%20(EtO)%20Sterilization%20Validation%20%20(1).png",
