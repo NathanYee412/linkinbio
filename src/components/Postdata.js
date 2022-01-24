@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "How many medical device samples are required for medical package testing",
+        link:"https://hubs.la/Q012LR9-0",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/How%20Many%20Medical%20Device%20Package%20Samples%20Are%20Required%20for%20Package%20Testing%20(4).png",
+        key: 51
+    },
+    {
         alt: "What is medical device contract manufacturing?",
         link:"https://lso-inc.com/news/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20is%20medical%20device%20.png",
