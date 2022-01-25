@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "4 Medical design packaging pitfalls to avoid",
+        link:"https://hubs.la/Q012S5Ld0",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/4%20Medical%20Device%20Packaging%20Pitfalls%20to%20Avoid%20(1).png",
+        key: 52
+    },
+    {
         alt: "How many medical device samples are required for medical package testing",
         link:"https://hubs.la/Q012LR9-0",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/How%20Many%20Medical%20Device%20Package%20Samples%20Are%20Required%20for%20Package%20Testing%20(4).png",
