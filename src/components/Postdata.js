@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "7 Recommendations for Sterilization Validaiton Integrity",
+        link:"https://lso-inc.com/news/7-recommendations-for-sterilization-validation-integrity/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/7%20Recommendations%20for%20Sterilization%20Validation%20Integrity%20(1).png",
+        key: 53
+    },
+    {
         alt: "4 Medical design packaging pitfalls to avoid",
         link:"https://hubs.la/Q012S5Ld0",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/4%20Medical%20Device%20Packaging%20Pitfalls%20to%20Avoid%20(1).png",
