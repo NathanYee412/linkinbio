@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "MDM Capabilities",
+        link:"https://hubs.la/Q0130Fvc0",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/MDM%20Capabilities.png",
+        key: 54
+    },
+    {
         alt: "7 Recommendations for Sterilization Validaiton Integrity",
         link:"https://lso-inc.com/news/7-recommendations-for-sterilization-validation-integrity/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/7%20Recommendations%20for%20Sterilization%20Validation%20Integrity%20(1).png",
