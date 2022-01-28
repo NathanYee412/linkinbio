@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Dunnage",
+        link:"https://lso-inc.com/blog/what-is-dunnage-and-how-can-it-reduce-medical-package-testing-costs/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/DunnageII.png",
+        key: 55
+    },
+    {
         alt: "MDM Capabilities",
         link:"https://hubs.la/Q0130Fvc0",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/MDM%20Capabilities.png",
