@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "3 Benefits of conducting sterilization with a turnkey manufacturer",
+        link:"https://lso-inc.com/blog/3-benefits-to-conducting-sterilization-with-a-turnkey-manufacturing-partner/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Benefits%20to%20Conducting%20Sterilization%20with%20a%20Turnkey%20Manufacturing%20Partner%20(1).png",
+        key: 56
+    },
+    {
         alt: "Dunnage",
         link:"https://lso-inc.com/blog/what-is-dunnage-and-how-can-it-reduce-medical-package-testing-costs/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/DunnageII.png",
