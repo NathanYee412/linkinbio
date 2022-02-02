@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Outsourcing and CMO selection criteria",
+        link:"https://lso-inc.com/blog/outsourcing-and-cmo-selection-criteria/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Outsourcing%20and%20CMO%20Selection%20Criteria%20(1).png",
+        key: 58
+    },
+    {
         alt: "4 Best Practices for Better Batch EO Sterilization",
         link:"https://lso-inc.com/blog/4-keys-to-effective-medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/4%20Best%20Practices%20for%20Better%20Batch%20EO%20Sterilization%20(3).png",
