@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "3 keys to more efficient distribution simulation testing",
+        link:"https://lso-inc.com/blog/3-keys-to-more-efficient-distribution-simulation-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Keys%20to%20More%20Efficient%20Distribution%20Simulation%20Testing%20(1)-2.png",
+        key: 59
+    },
+    {
         alt: "Outsourcing and CMO selection criteria",
         link:"https://lso-inc.com/blog/outsourcing-and-cmo-selection-criteria/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Outsourcing%20and%20CMO%20Selection%20Criteria%20(1).png",
