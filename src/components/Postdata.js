@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "3 Often Overlooked Elements of Medical Device Sterilization",
+        link:"https://lso-inc.com/blog/3-often-overlooked-elements-of-medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Often%20Overlooked%20Elements%20of%20Medical%20Device%20Sterilization%20(2).png",
+        key: 60
+    },
+    {
         alt: "3 keys to more efficient distribution simulation testing",
         link:"https://lso-inc.com/blog/3-keys-to-more-efficient-distribution-simulation-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Keys%20to%20More%20Efficient%20Distribution%20Simulation%20Testing%20(1)-2.png",
