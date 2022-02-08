@@ -15,7 +15,7 @@ const posts =    [
     {
         alt: "Engineering Services",
         link:"https://lso-inc.com/services/medical-device-manufacturing/services/engineering/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
-        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/EngineeringServices.png/medium.png?t=0".
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/EngineeringServices.png/medium.png?t=0",
         key: 61
     },
     {
