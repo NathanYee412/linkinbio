@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medical device steam sterilization and the impact of iso 17665",
+        link:"https://lso-inc.com/news/medical-device-steam-sterilization-and-the-impact-of-iso-17665/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Steam%20Sterilization%20and%20the%20Impact%20of%20ISO%2017665%20(1).png",
+        key: 63
+    },
+    {
         alt: "Medical Package Testing, the anatomy of a protocol",
         link:"https://lso-inc.com/news/medical-package-testing-anatomy-of-a-protocol/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Package%20Testing%20Anatomy%20of%20a%20Protocol%E2%80%AF.png",
