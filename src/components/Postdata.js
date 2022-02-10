@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Sustainable Ethylene Oxide Sterilization",
+        link:"https://www.odtmag.com/buyersguide/profile/life-science-outsourcing/view_sustainable-ethylene-oxide-sterilization-of-medical-devices-an-orthopedic-innovators-qa?utm_campaign=MPO%2FODT&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Orthopedic%20Innovators-3.png?t=0",
+        key: 0
+    },
+    {
         alt: "Medical device steam sterilization and the impact of iso 17665",
         link:"https://lso-inc.com/news/medical-device-steam-sterilization-and-the-impact-of-iso-17665/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Steam%20Sterilization%20and%20the%20Impact%20of%20ISO%2017665%20(1).png",
