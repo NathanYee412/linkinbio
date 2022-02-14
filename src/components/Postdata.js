@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "What Does the Medical Device Sterilization Validation Process Include?",
+        link:"https://lso-inc.com/news/what-does-the-medical-device-sterilization-validation-process-include-2/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Does%20the%20Medical%20Device%20Sterilization%20Validation%20Process%20Include%20(3).png",
+        key: 66
+    },
+    {
         alt: "When should you start real time aging?",
         link:"https://lso-inc.com/news/when-should-you-start-real-time-aging/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/When%20Should%20You%20Start%20Real-time%20Aging%20(1).png",
