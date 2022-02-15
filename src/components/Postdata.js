@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Accelerated Aging for Medical Package Testing: What, Why, and How",
+        link:"https://lso-inc.com/news/accelerated-aging-for-medical-package-testing-what-why-and-how/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Accelerated%20Aging%20for%20Medical%20Package%20Testing%20What%2c%20Why%2c%20and%20How%20(2).png",
+        key: 68
+    },
+    {
         alt: "What is medical device manufacturing",
         link:"https://lso-inc.com/news/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Is%20Medical%20Device%20Contract%20Manufacturing%20(1)-2.png/medium.png?t=0",
