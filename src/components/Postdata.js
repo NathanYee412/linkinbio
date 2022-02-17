@@ -8,7 +8,7 @@
 const posts =    [
     {
         alt: "Different Methods of Medical Device Sterilization",
-        link:"https://lso-inc.com/sterilization-validation-services/medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        link:"https://lso-inc.com/services/sterilization-validation/services/sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Different%20methods%20of%20Medical%20Device%20Sterilization-1.png",
         key: 69
     },
