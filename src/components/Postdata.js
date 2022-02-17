@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Different Methods of Medical Device Sterilization",
+        link:"https://lso-inc.com/sterilization-validation-services/medical-device-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Different%20methods%20of%20Medical%20Device%20Sterilization-1.png",
+        key: 69
+    },
+    {
         alt: "Accelerated Aging for Medical Package Testing: What, Why, and How",
         link:"https://lso-inc.com/news/accelerated-aging-for-medical-package-testing-what-why-and-how/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Accelerated%20Aging%20for%20Medical%20Package%20Testing%20What%2c%20Why%2c%20and%20How%20(2).png",
