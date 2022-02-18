@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medical Device Quality Cheat Sheet",
+        link:"https://lso-inc.com/news/medical-device-manufacturing-quality-cheat-sheet/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Manufacturing%20Quality%20Cheat%20sheet.png",
+        key: 70
+    },
+    {
         alt: "Different Methods of Medical Device Sterilization",
         link:"https://lso-inc.com/services/sterilization-validation/services/sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Different%20methods%20of%20Medical%20Device%20Sterilization-1.png",
