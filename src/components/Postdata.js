@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medical Device Packaging Validation and ISO 11607",
+        link:"https://lso-inc.com/news/medical-device-packaging-validation-and-iso-11607/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Packaging%20Validation%20and%20ISO%2011607%20(2).png?t=0",
+        key: 71
+    },
+    {
         alt: "Medical Device Quality Cheat Sheet",
         link:"https://lso-inc.com/news/medical-device-manufacturing-quality-cheat-sheet/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Manufacturing%20Quality%20Cheat%20sheet.png",
