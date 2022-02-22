@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Three Ways to prevent ISO 11607 package design failure",
+        link:"https://lso-inc.com/news/design-terminally-sterile-packaging-3-ways-to-prevent-iso-11607-package-design-failure-infographic/",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Ways%20to%20Prevent%20ISO%2011607%20Package%20Design%20Failure%20-2.png",
+        key: 72
+    },
+    {
         alt: "Medical Device Packaging Validation and ISO 11607",
         link:"https://lso-inc.com/news/medical-device-packaging-validation-and-iso-11607/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Packaging%20Validation%20and%20ISO%2011607%20(2).png?t=0",
