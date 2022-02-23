@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "The Right Challenge Device for Ethylene Oxide Sterilization",
+        link:"https://lso-inc.com/news/the-right-challenge-device-for-ethylene-oxide-eo-sterilization-validation/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/The%20Right%20Challenge%20Device%20for%20Ethylene%20Oxide%20(EO)%20Sterilization%20Validation.png",
+        key: 73
+    },
+    {
         alt: "Three Ways to prevent ISO 11607 package design failure",
         link:"https://lso-inc.com/news/design-terminally-sterile-packaging-3-ways-to-prevent-iso-11607-package-design-failure-infographic/",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/3%20Ways%20to%20Prevent%20ISO%2011607%20Package%20Design%20Failure%20-2.png",
