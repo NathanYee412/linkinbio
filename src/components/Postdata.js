@@ -7,6 +7,12 @@
     
     const posts =    [
     {
+        alt: "Is Gamma Sterilization the Best Choice for Your Medical Device?",
+        link:"https://lso-inc.com/news/is-gamma-sterilization-the-best-choice-for-your-medical-device/",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Is%20Gamma%20Sterilization%20the%20Best%20Choice%20for%20Your%20Medical%20Device.png",
+        key: 77
+    },
+    {
         alt: "What Is Medical Device Contract Manufacturing?",
         link:"https://lso-inc.com/news/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/What%20Is%20Medical%20Device%20Contract%20Manufacturing%20(2)-2.png/medium.png?t=0",
