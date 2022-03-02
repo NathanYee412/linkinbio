@@ -5,7 +5,13 @@
 //     key: 0
 // },
     
-    const posts =    [
+        const posts =    [
+    {
+        alt: "Medtech Makers: Rato Tomic Interview",
+        link:"https://www.mpo-mag.com/buyersguide/profile/life-science-outsourcing-inc-/view_challenges-of-contract-medical-device-assembly-post-covid-19--a-medtech-makers-qa?utm_campaign=MPO%2FODT&utm_source=medtech-makers&utm_medium=mpo-website",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/MPO%20MedTech%20Makers%20Instagram%20(1).png",
+        key: 78
+    },
     {
         alt: "Is Gamma Sterilization the Best Choice for Your Medical Device?",
         link:"https://lso-inc.com/news/is-gamma-sterilization-the-best-choice-for-your-medical-device/",
