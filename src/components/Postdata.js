@@ -5,7 +5,13 @@
 //     key: 0
 // },
     
-        const posts =    [
+const posts =    [
+    {
+        alt: "MPT Promotion image",
+        link:"https://lso-inc.com/services/medical-package-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Package%20Testing.png?t=0",
+        key: 79
+    },
     {
         alt: "Medtech Makers: Rato Tomic Interview",
         link:"https://www.mpo-mag.com/buyersguide/profile/life-science-outsourcing-inc-/view_challenges-of-contract-medical-device-assembly-post-covid-19--a-medtech-makers-qa?utm_campaign=MPO%2FODT&utm_source=medtech-makers&utm_medium=mpo-website",
