@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "",
+        link:"https://lso-inc.com/services/sterilization-validation/services/sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Does%20Your%20Medical%20Device%20Project%20Require%20Sterilization.png",
+        key: 80
+    },
+    {
         alt: "MPT Promotion image",
         link:"https://lso-inc.com/services/medical-package-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Package%20Testing.png?t=0",
@@ -20,7 +26,7 @@ const posts =    [
     },
     {
         alt: "Is Gamma Sterilization the Best Choice for Your Medical Device?",
-        link:"https://lso-inc.com/news/is-gamma-sterilization-the-best-choice-for-your-medical-device/",
+        link:"https://lso-inc.com/news/is-gamma-sterilization-the-best-choice-for-your-medical-device/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Is%20Gamma%20Sterilization%20the%20Best%20Choice%20for%20Your%20Medical%20Device.png",
         key: 77
     },
