@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medical Device Ethylene Oxide Sterilization: Environmental and Technician Safety",
+        link:"https://lso-inc.com/news/medical-device-ethylene-oxide-sterilization-environmental-and-technician-safety/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Ethylene%20Oxide%20Sterilization%20Environmental%20and%20Technician%20Safety.png?t=0",
+        key: 81
+    },
+    {
         alt: "",
         link:"https://lso-inc.com/services/sterilization-validation/services/sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Does%20Your%20Medical%20Device%20Project%20Require%20Sterilization.png",
