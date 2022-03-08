@@ -30,7 +30,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Start solution to check for errors
-        run: npm run start
+        run: npm run start & npx wait-on http://localhost:3000
 
       # Runs a set of commands using the runners shell
       - name: Build/Deploy Application
