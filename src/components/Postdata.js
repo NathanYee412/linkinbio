@@ -13,7 +13,7 @@ const posts =    [
         key: 81
     },
     {
-        alt: "LSO sterilization services",
+        alt: "LSO sterilization services | test",
         link:"https://lso-inc.com/services/sterilization-validation/services/sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Does%20Your%20Medical%20Device%20Project%20Require%20Sterilization.png",
         key: 80
