@@ -34,7 +34,7 @@ jobs:
         
       - name: Setup git config
         run: |
-          git config user.name "GitHub Actions Bot"
+          git config user.name "LSOMarketing"
           git config user.email "marketing@lso-inc.com"
 
       # Runs a set of commands using the runners shell
