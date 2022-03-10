@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medical device manufacturing quality cheat sheet",
+        link:"https://lso-inc.com/news/medical-device-manufacturing-quality-cheat-sheet/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Manufacturing%20Quality%20Cheat%20sheet%20(1).png",
+        key: 82
+    },
+    {
         alt: "Medical Device Ethylene Oxide Sterilization: Environmental and Technician Safety",
         link:"https://lso-inc.com/news/medical-device-ethylene-oxide-sterilization-environmental-and-technician-safety/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Ethylene%20Oxide%20Sterilization%20Environmental%20and%20Technician%20Safety.png?t=0",
