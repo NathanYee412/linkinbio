@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Penetration Dye testing",
+        link:"https://lso-inc.com/news/dye-penetration-testing-recent-astm-enhancements/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Dye%20Penetration%20Testing%20%E2%80%93%20Recent%20ASTM%20Enhancements.png",
+        key: 83
+    },
+    {
         alt: "Medical device manufacturing quality cheat sheet",
         link:"https://lso-inc.com/news/medical-device-manufacturing-quality-cheat-sheet/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://f.hubspotusercontent20.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Manufacturing%20Quality%20Cheat%20sheet%20(1).png",
