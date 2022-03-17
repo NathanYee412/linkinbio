@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "What is medical device contract manufacturing",
+        link:"https://lso-inc.com/news/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/What%20Is%20Medical%20Device%20Contract%20Manufacturing%20(3)-1.png",
+        key: 84
+    },
+    {
         alt: "Penetration Dye testing",
         link:"https://lso-inc.com/news/dye-penetration-testing-recent-astm-enhancements/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Dye%20Penetration%20Testing%20%E2%80%93%20Recent%20ASTM%20Enhancements.png",
