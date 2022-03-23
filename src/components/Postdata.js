@@ -7,6 +7,18 @@
     
 const posts =    [
     {
+        alt: "AAOS Promotion 2",
+        link:"https://lso-inc.com/",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/MD&M%20Last%20day%20post-1.png?t=0",
+        key: 86
+    },
+    {
+        alt: "AAOS Promotion 1",
+        link:"https://lso-inc.com/",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/AAOS-Social-Media-Post.png?t=0",
+        key: 85
+    },
+    {
         alt: "What is medical device contract manufacturing",
         link:"https://lso-inc.com/news/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/What%20Is%20Medical%20Device%20Contract%20Manufacturing%20(3)-1.png",
