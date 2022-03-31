@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Thank you AAOS and Attendees",
+        link:"https://lso-inc.com/",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/AAOS-Social-Media-Post-2.png?t=0",
+        key: 87
+    },
+    {
         alt: "AAOS Promotion 2",
         link:"https://lso-inc.com/",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/MD&M%20Last%20day%20post-1.png?t=0",
