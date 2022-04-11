@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "IME West 2022",
+        link:"https://l.feathr.co/Life-Science-Outsourcing-Inc-y?utm_campaign=MD%26M&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/MDM%20Promotion%201%20(1).png?t=0",
+        key: 89
+    },
+    {
         alt: "How Will the EU MDR Change Medical Package Testing for US Manufacturers?",
         link:"https://lso-inc.com/news/how-will-the-eu-mdr-change-medical-package-testing-for-us-manufacturers/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/How%20Will%20the%20EU%20MDR%20Change%20Medical%20Package%20Testing%20for%20%20US%20Manufacturers.png?t=0",
