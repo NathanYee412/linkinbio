@@ -7,9 +7,15 @@
     
 const posts =    [
     {
+        alt: "Distribution simulation testing",
+        link:"https://lso-inc.com/news/3-keys-to-more-efficient-distribution-simulation-testing/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Copy%20of%20Dye%20Penetration%20Testing%20%E2%80%93%20Recent%20ASTM%20Enhancements-1.png?t=0",
+        key: 92
+    },
+    {
         alt: "Employees of the month March 2022",
         link:"https://lso-inc.com/",
-        image:"https://14497222.cdnp1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Employee%20of%20the%20Month.png?Expires=1650484466&Signature=dL8Vg8~gSD0yQ8Fuso-SqkJZHl~JVbPMv7wK3auB-uss4Tpv-EA~7DE7ZyM4k02wNWlpnCr~NjMN-5u3iW2BMqlFludC1umW0~2YjiAVgXvJT6DXxTRO3nZH1y3kcwazkaOxQUhoR-x4zf2FnsoCsZ8E5-Di3NGpC4O5MGceLFW43IYWw0j34imSueMGH91AlT600Yik0D2KJlYA0VdXn6EPOaP92qrb8IoecReKAB8hgj9fdg8y9wrD5x8l~DGsaoFHexoEFPcoNMTjao0TVBxAh1haO0~6W9-pQohrgt7yeSXPhmRy8IzAQcBmKBfHBvI5181SPNsO2rjEMJCd0g__&Key-Pair-Id=APKAJDNICOKANPHVCSBQ",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Employee%20of%20the%20Month.png/medium.png?t=0",
         key: 91
     },
     {
