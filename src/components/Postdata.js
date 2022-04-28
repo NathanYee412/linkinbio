@@ -7,10 +7,16 @@
     
 const posts =    [
     {
+        alt: "Getting FDA 510k Clearance",
+        link:"https://lso-inc.com/news/navigating-510k-clearance-4-key-steps-in-the-manufacturing-process/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/510k%202.png?t=0",
+        key: 94
+    },
+    {
         alt: "4 Best Practices for better batch EO sterilization",
         link:"https://lso-inc.com/news/4-best-practices-for-better-batch-eo-sterilization/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/4%20Best%20Practices%20for%20Better%20Batch%20EO%20Sterilization%20(4).png",
-        key: 0
+        key: 93
     },
     {
         alt: "Distribution simulation testing",
