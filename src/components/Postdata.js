@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "4 Medical Device Packaging Pitfalls to Avoid",
+        link:"https://lso-inc.com/news/4-medical-device-packaging-pitfalls-to-avoid/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/4%20Medical%20Device%20Packaging%20Pitfalls%20to%20Avoid%20(2)-1.png?t=0",
+        key: 95
+    },
+    {
         alt: "Getting FDA 510k Clearance",
         link:"https://lso-inc.com/news/navigating-510k-clearance-4-key-steps-in-the-manufacturing-process/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/510k%202.png?t=0",
