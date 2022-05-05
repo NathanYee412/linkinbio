@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medical Device Sterilizaiton Process",
+        link:"https://lso-inc.com/news/what-does-the-medical-device-sterilization-validation-process-include-2/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/What%20Does%20the%20Medical%20Device%20Sterilization%20Validation%20Process%20Include%20(4).png?t=0",
+        key: 96
+    },
+    {
         alt: "4 Medical Device Packaging Pitfalls to Avoid",
         link:"https://lso-inc.com/news/4-medical-device-packaging-pitfalls-to-avoid/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/4%20Medical%20Device%20Packaging%20Pitfalls%20to%20Avoid%20(2)-1.png?t=0",
